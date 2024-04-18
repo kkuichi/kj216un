@@ -1,0 +1,7 @@
+train: /home/jovyan/data/lightning/Kamila/trenovacia.txt
+test: /home/jovyan/data/lightning/Kamila/testovacia.txt
+val: /home/jovyan/data/lightning/Kamila/testovacia.txt
+
+nc: 4
+
+names: ['U bez headecha','U s headechom','O bez headecha','O s headechom']
